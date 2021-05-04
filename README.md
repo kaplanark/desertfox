@@ -1,3 +1,5 @@
 # desertfox
-Modern Ubuntu İcon Theme
+Modern Gnome Folders İcon Theme
 
+<img src=""/>
+ 
